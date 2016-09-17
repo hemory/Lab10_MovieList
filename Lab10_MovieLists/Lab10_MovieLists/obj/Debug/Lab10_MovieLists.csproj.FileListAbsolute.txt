@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\Lab10_MovieLists\Lab10_MovieLists\bin\Debug\Lab10_MovieLists.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab10_MovieLists\Lab10_MovieLists\bin\Debug\Lab10_MovieLists.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab10_MovieLists\Lab10_MovieLists\bin\Debug\Lab10_MovieLists.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab10_MovieLists\Lab10_MovieLists\obj\Debug\Lab10_MovieLists.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab10_MovieLists\Lab10_MovieLists\obj\Debug\Lab10_MovieLists.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab10_MovieLists\Lab10_MovieLists\obj\Debug\Lab10_MovieLists.pdb
